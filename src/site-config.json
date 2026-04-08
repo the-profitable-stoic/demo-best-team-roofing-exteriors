@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "Best Team Roofing & Exteriors",
+    "phone": "+12136422600",
+    "category": "roofer",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "LA's Roofing Experts",
+      "heroSubline": "Protecting homes and businesses across Los Angeles. Expert roofing services with a focus on quality and durability.",
+      "aboutTitle": "Your Trusted Los Angeles Roofing Partner",
+      "aboutText": [
+        "Best Team Roofing & Exteriors was founded right here in Los Angeles with a simple mission: to provide reliable, high-quality roofing services to our neighbors. We saw a need for contractors who understood the unique challenges of Southern California's climate and architecture.",
+        "We're not just roofers; we're problem solvers. Our approach is built on clear communication, meticulous workmanship, and a commitment to using the best materials for the job. We treat every project, from a small repair to a full roof replacement, with the same level of care and attention to detail.",
+        "Los Angeles is our home, and we're proud to contribute to its vibrant communities. We actively support local initiatives and are dedicated to sustainable practices to minimize our environmental impact. We believe in building strong roofs and strong relationships that last."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Los Angeles architecture and climate challenges."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "Using only the best roofing materials designed to withstand California's sun and weather."
+        },
+        {
+          "title": "Experienced Team",
+          "description": "Skilled and certified roofers with years of experience in the Los Angeles area."
+        },
+        {
+          "title": "Customer Focused",
+          "description": "Clear communication, transparent pricing, and a commitment to your satisfaction."
+        }
+      ],
+      "ctaHeadline": "Get a Free Roofing Estimate",
+      "ctaSubline": "Protect your home or business with a durable, reliable roof. Contact us today for a free consultation."
+    },
+    "services": [
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Upgrade your roof with durable, long-lasting materials.",
+        "description": "Is your roof showing signs of age or damage? A full roof replacement might be the best solution to protect your Los Angeles property. We specialize in removing old, worn-out roofs and installing new roofing systems that are built to last. We handle everything from material selection to final inspection, ensuring a seamless and stress-free experience. We understand the unique challenges of Los Angeles weather, from intense sun to occasional heavy rains, and we'll recommend the best roofing materials to withstand these conditions. Whether you have a classic Spanish Colonial Revival in Silver Lake or a modern hillside home in Hollywood, we have the expertise to handle any type of roof replacement project. We offer a variety of roofing options, including asphalt shingles, tile, metal, and flat roofing systems. Our team will work with you to choose the best option for your budget and aesthetic preferences. We ensure proper ventilation and insulation to improve energy efficiency and reduce your utility bills. A new roof not only protects your home but also increases its value and curb appeal.",
+        "process": [
+          "Step 1: Inspection and Assessment – Thorough evaluation of your current roof's condition.",
+          "Step 2: Material Selection – Choose the best roofing materials to suit your style and budget.",
+          "Step 3: Old Roof Removal – Safe and efficient removal of your existing roofing system.",
+          "Step 4: New Roof Installation – Expert installation of your new roof with attention to detail."
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced curb appeal",
+          "Improved energy efficiency",
+          "Long-lasting protection"
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement take?",
+            "answer": "Typically, a roof replacement takes between 3-7 days, depending on the size and complexity of the project. We will provide a more accurate timeline after the initial inspection."
+          },
+          {
+            "question": "What type of roofing material is best for Los Angeles?",
+            "answer": "The best material depends on your budget, architectural style, and personal preferences. Asphalt shingles are a popular and affordable option, while tile roofs offer excellent durability and a classic look. Metal roofs are also gaining popularity for their longevity and energy efficiency."
+          },
+          {
+            "question": "Do you offer financing options for roof replacements?",
+            "answer": "Yes, we offer flexible financing options to make roof replacements more affordable. Contact us to learn more about our financing plans."
+          }
+        ]
+      },
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Fix leaks and damages quickly to protect your home.",
+        "description": "Don't let a small roof leak turn into a major problem. We offer prompt and reliable roof repair services to address any issue, from minor leaks to storm damage. Our experienced technicians will quickly diagnose the problem and provide effective solutions to restore the integrity of your roof. We understand the importance of a watertight roof, especially in Los Angeles, where even a small amount of rain can cause significant damage. We handle all types of roof repairs, including shingle replacement, leak detection and repair, flashing repair, and gutter cleaning. Whether you have a post-war bungalow in Torrance or a Craftsman home in Pasadena, we have the expertise to repair any type of roof. We use high-quality materials and proven techniques to ensure lasting repairs. We also offer emergency roof repair services for urgent situations. Our goal is to provide you with peace of mind knowing that your roof is in good hands. Regular roof maintenance and timely repairs can extend the life of your roof and prevent costly replacements.",
+        "process": [
+          "Step 1: Leak Detection – Identify the source of the leak and assess the extent of the damage.",
+          "Step 2: Damage Assessment – Determine the best repair solution for your specific needs.",
+          "Step 3: Repair Execution – Perform the necessary repairs using quality materials and techniques.",
+          "Step 4: Quality Assurance – Ensure the repairs are effective and your roof is watertight."
+        ],
+        "benefits": [
+          "Prevents further damage",
+          "Extends roof lifespan",
+          "Cost-effective solution",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a roof repair request?",
+            "answer": "We offer same-day or next-day service for most roof repair requests in the Los Angeles area. We understand the urgency of roof repairs and will do our best to respond as quickly as possible."
+          },
+          {
+            "question": "How much does a roof repair cost?",
+            "answer": "The cost of a roof repair depends on the extent of the damage and the type of repair needed. We will provide a free estimate after inspecting your roof."
+          },
+          {
+            "question": "Do you offer emergency roof repair services?",
+            "answer": "Yes, we offer 24/7 emergency roof repair services for urgent situations like severe leaks or storm damage."
+          }
+        ]
+      },
+      {
+        "slug": "roof-inspection",
+        "name": "Roof Inspection",
+        "shortDescription": "Comprehensive inspections to identify potential issues.",
+        "description": "Protect your investment with a professional roof inspection. Our certified inspectors will thoroughly assess the condition of your roof and identify any potential problems before they become major issues. We provide detailed reports with photos and recommendations for repairs or maintenance. Regular roof inspections are essential for maintaining the integrity of your roof and preventing costly repairs. We understand the unique challenges of Los Angeles roofs, including sun exposure, wind damage, and earthquake risks. We check for signs of leaks, damage, and wear and tear, including cracked or missing shingles, damaged flashing, and clogged gutters. Whether you own a historic home in Pasadena or a modern condo in West LA, we have the expertise to inspect any type of roof. Our inspections can help you identify potential problems early, allowing you to address them before they cause significant damage. We provide unbiased assessments and recommendations, ensuring you receive the best possible advice for your roofing needs. Protect your home and your wallet with a professional roof inspection.",
+        "process": [
+          "Step 1: Visual Inspection – Thorough examination of the roof's surface for visible damage.",
+          "Step 2: Component Assessment – Evaluation of flashing, gutters, vents, and other roof components.",
+          "Step 3: Leak Detection – Identification of potential leak sources and water damage.",
+          "Step 4: Detailed Report – Comprehensive report with photos and recommendations."
+        ],
+        "benefits": [
+          "Early problem detection",
+          "Prevents costly repairs",
+          "Extends roof lifespan",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, or more frequently if you live in an area prone to severe weather. Regular inspections can help identify potential problems early and prevent costly repairs."
+          },
+          {
+            "question": "What is included in a roof inspection report?",
+            "answer": "Our roof inspection reports include a detailed assessment of your roof's condition, photos of any damage, and recommendations for repairs or maintenance."
+          },
+          {
+            "question": "How much does a roof inspection cost?",
+            "answer": "The cost of a roof inspection depends on the size and complexity of your roof. Contact us for a free quote."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Services",
+        "shortDescription": "Keep your gutters clean and functioning properly.",
+        "description": "Protect your home from water damage with our comprehensive gutter services. We offer gutter cleaning, repair, and installation to ensure your gutters are functioning properly. Clogged or damaged gutters can cause water to back up and damage your roof, siding, and foundation. We understand the importance of properly functioning gutters, especially in Los Angeles, where even a small amount of rain can cause significant damage. We remove leaves, debris, and other obstructions from your gutters to ensure proper water flow. We also repair damaged gutters and replace sections that are beyond repair. If your gutters are old or damaged, we can install new, high-quality gutters that will protect your home for years to come. Whether you have a modern home in Irvine or a classic bungalow in Long Beach, we have the expertise to handle any type of gutter project. We offer a variety of gutter options, including seamless gutters, which are less prone to leaks and clogs. Our team will work with you to choose the best option for your budget and aesthetic preferences. Protect your home from water damage with our professional gutter services.",
+        "process": [
+          "Step 1: Gutter Cleaning – Removal of leaves, debris, and other obstructions.",
+          "Step 2: Gutter Repair – Repair of damaged sections and leaks.",
+          "Step 3: Gutter Installation – Installation of new, high-quality gutters.",
+          "Step 4: System Check – Ensure proper water flow and drainage."
+        ],
+        "benefits": [
+          "Prevents water damage",
+          "Protects roof and foundation",
+          "Extends gutter lifespan",
+          "Improves curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, in the spring and fall. If you live in an area with many trees, you may need to clean them more frequently."
+          },
+          {
+            "question": "What are seamless gutters?",
+            "answer": "Seamless gutters are made from a single piece of material, which eliminates seams and reduces the risk of leaks and clogs. They are a popular and durable option for homeowners."
+          },
+          {
+            "question": "How much does gutter cleaning cost?",
+            "answer": "The cost of gutter cleaning depends on the size of your home and the amount of debris in your gutters. Contact us for a free quote."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-roofing",
+        "name": "Commercial Roofing",
+        "shortDescription": "Expert roofing solutions for businesses in Los Angeles.",
+        "description": "Protect your commercial property with our expert commercial roofing services. We offer a full range of roofing solutions for businesses in Los Angeles, including roof repair, replacement, and maintenance. We understand the unique needs of commercial properties and provide customized solutions to meet your specific requirements. We have experience working on a variety of commercial buildings, including office buildings, retail stores, and industrial facilities. We use high-quality materials and proven techniques to ensure lasting protection for your investment. We also offer preventative maintenance programs to extend the life of your roof and prevent costly repairs. Whether you have a flat roof, a metal roof, or a shingle roof, we have the expertise to handle any type of commercial roofing project. We understand the importance of minimizing disruption to your business operations during roofing projects. We work efficiently and safely to complete projects on time and within budget. Protect your business with our reliable commercial roofing services.",
+        "process": [
+          "Step 1: Site Assessment – Thorough evaluation of your commercial roof's condition.",
+          "Step 2: Customized Solutions – Development of a roofing plan tailored to your needs.",
+          "Step 3: Professional Execution – Efficient and safe completion of your roofing project.",
+          "Step 4: Ongoing Maintenance – Preventative maintenance programs to extend roof lifespan."
+        ],
+        "benefits": [
+          "Protects commercial property",
+          "Minimizes business disruption",
+          "Cost-effective solutions",
+          "Long-lasting protection"
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial roofing systems do you install?",
+            "answer": "We install a variety of commercial roofing systems, including flat roofs, metal roofs, shingle roofs, and TPO roofs. We will work with you to choose the best option for your building and budget."
+          },
+          {
+            "question": "Do you offer preventative maintenance programs for commercial roofs?",
+            "answer": "Yes, we offer preventative maintenance programs to extend the life of your roof and prevent costly repairs. Our programs include regular inspections, cleaning, and minor repairs."
+          },
+          {
+            "question": "How long does a commercial roofing project take?",
+            "answer": "The duration of a commercial roofing project depends on the size and complexity of the project. We will provide a detailed timeline before starting any work."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-roofing",
+        "name": "Emergency Roofing Services",
+        "shortDescription": "24/7 emergency roof repair for urgent situations.",
+        "description": "When disaster strikes, you need a roofing contractor you can rely on. We offer 24/7 emergency roofing services to address urgent situations like severe leaks, storm damage, and fallen trees. Our experienced technicians will quickly respond to your call and provide temporary repairs to prevent further damage. We understand the stress and anxiety that can accompany a roofing emergency, and we're here to help you get back on your feet. We handle all types of emergency roofing situations, including tarping, leak repair, and debris removal. Whether you have a historic home in Echo Park or a modern condo in Venice, we have the expertise to handle any type of emergency roofing project. We work quickly and efficiently to minimize damage and protect your property. Our goal is to provide you with peace of mind knowing that your roof is in good hands. Don't wait until it's too late, contact us for immediate assistance with your roofing emergency.",
+        "process": [
+          "Step 1: Immediate Response – 24/7 availability for emergency calls.",
+          "Step 2: Damage Assessment – Quick evaluation of the damage and safety hazards.",
+          "Step 3: Temporary Repairs – Tarping, leak repair, and debris removal.",
+          "Step 4: Permanent Solutions – Development of a plan for permanent repairs."
+        ],
+        "benefits": [
+          "24/7 availability",
+          "Quick response time",
+          "Minimizes damage",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes a roofing emergency?",
+            "answer": "A roofing emergency is any situation that poses an immediate threat to your property, such as severe leaks, storm damage, or fallen trees. These situations require immediate attention to prevent further damage."
+          },
+          {
+            "question": "How quickly can you respond to a roofing emergency?",
+            "answer": "We offer 24/7 emergency roofing services and will respond to your call as quickly as possible. Our goal is to arrive at your property within 1-2 hours."
+          },
+          {
+            "question": "What should I do while waiting for your team to arrive?",
+            "answer": "While waiting for our team to arrive, try to contain the leak with buckets or tarps. Avoid going on the roof yourself, as this can be dangerous."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Long Beach",
+        "slug": "long-beach-ca",
+        "state": "CA",
+        "content": "Best Team Roofing & Exteriors is proud to offer comprehensive roofing services to the residents of Long Beach, California. We understand the unique architectural landscape of Long Beach, from the charming 1920s-40s Craftsman homes to the diverse array of other styles found throughout the city. Our experienced team is equipped to handle any roofing project, big or small, with expertise and care.\n\nLong Beach's warm, dry climate year-round can put a strain on roofing materials. We specialize in durable, weather-resistant roofing solutions that can withstand the California sun and occasional coastal conditions. Whether you need a new roof installation, repairs, or routine maintenance, Best Team Roofing & Exteriors is committed to providing top-quality workmanship and exceptional customer service to the Long Beach community.",
+        "localContext": "Long Beach is known for its beautiful Craftsman homes built between the 1920s and 1940s, requiring special care when roofing.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Carson",
+          "Signal Hill"
+        ]
+      },
+      {
+        "city": "Pasadena",
+        "slug": "pasadena-ca",
+        "state": "CA",
+        "content": "Best Team Roofing & Exteriors provides expert roofing services to the historic city of Pasadena, California. We appreciate the unique architectural character of Pasadena, particularly the prevalence of 1910s-30s Craftsman bungalows. Our team is skilled in preserving the integrity of these classic homes while providing modern roofing solutions.\n\nPasadena's warm and dry climate requires roofing materials that can withstand prolonged sun exposure. We offer a variety of roofing options designed for durability and energy efficiency. From inspections to repairs and complete roof replacements, Best Team Roofing & Exteriors is dedicated to delivering exceptional service to the Pasadena community, ensuring your home is protected for years to come.",
+        "localContext": "Pasadena is famous for its 1910s-30s Craftsman bungalows, which require specialized roofing knowledge and techniques.",
+        "nearbyAreas": [
+          "Altadena",
+          "San Marino",
+          "South Pasadena"
+        ]
+      },
+      {
+        "city": "Irvine",
+        "slug": "irvine-ca",
+        "state": "CA",
+        "content": "Best Team Roofing & Exteriors is your trusted roofing partner in Irvine, California. As a master-planned community with homes primarily built from the 1970s to the present, Irvine presents a unique blend of roofing styles and needs. We have extensive experience working on homes in Irvine and understand the specific challenges and requirements of the area.\n\nThe warm, dry climate of Irvine necessitates durable and energy-efficient roofing solutions. We offer a wide range of roofing materials and services to meet the diverse needs of Irvine homeowners. Whether you need a roof inspection, repair, or complete replacement, Best Team Roofing & Exteriors is committed to providing top-quality workmanship and exceptional customer service to the Irvine community.",
+        "localContext": "Irvine is a master-planned community with homes mostly built from the 1970s to the present, often featuring tile or composite roofing.",
+        "nearbyAreas": [
+          "Tustin",
+          "Lake Forest",
+          "Newport Beach"
+        ]
+      },
+      {
+        "city": "Santa Clarita",
+        "slug": "santa-clarita-ca",
+        "state": "CA",
+        "content": "Best Team Roofing & Exteriors proudly serves the growing community of Santa Clarita, California. Known for its newer master-planned communities built from the 1990s to the 2020s, Santa Clarita presents modern roofing needs. We provide roofing services tailored to the specific requirements of these newer homes.\n\nSanta Clarita's warm, dry climate demands roofing materials that can withstand intense sun exposure and occasional high winds. We offer durable, weather-resistant roofing solutions designed to protect your home for years to come. From new roof installations to repairs and maintenance, Best Team Roofing & Exteriors is dedicated to delivering exceptional service to the Santa Clarita community.",
+        "localContext": "Santa Clarita is characterized by its master-planned communities built from the 1990s to the 2020s, often using concrete tile or composition shingles.",
+        "nearbyAreas": [
+          "Valencia",
+          "Canyon Country",
+          "Saugus"
+        ]
+      },
+      {
+        "city": "Torrance",
+        "slug": "torrance-ca",
+        "state": "CA",
+        "content": "Best Team Roofing & Exteriors is dedicated to providing top-quality roofing services to the residents of Torrance, California. Torrance features many post-war homes built in the 1950s and 60s. We understand the unique roofing needs of these homes and offer tailored solutions to meet your specific requirements.\n\nThe warm, dry climate of Torrance requires durable and reliable roofing materials. We offer a wide range of roofing options designed to withstand the elements and protect your home for years to come. Whether you need a roof inspection, repair, or complete replacement, Best Team Roofing & Exteriors is committed to providing exceptional service and quality workmanship to the Torrance community.",
+        "localContext": "Torrance has a large number of homes built in the 1950s and 60s, often with flat or low-sloped roofs.",
+        "nearbyAreas": [
+          "Gardena",
+          "Redondo Beach",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Glendale",
+        "slug": "glendale-ca",
+        "state": "CA",
+        "content": "Best Team Roofing & Exteriors extends its expert roofing services to Glendale, CA. Glendale showcases a diverse mix of architectural styles, from historic homes to modern constructions. Our team is well-versed in handling various roofing types and challenges presented by Glendale's unique housing landscape.\n\nGlendale's climate presents a mix of warm, dry summers and mild winters, necessitating roofing solutions that can withstand sun and occasional rain. We offer a comprehensive range of roofing services, including inspections, repairs, and installations, ensuring your Glendale home remains protected from the elements. Rely on Best Team Roofing & Exteriors for reliable and efficient roofing solutions tailored to Glendale's needs.",
+        "localContext": "Glendale features a mix of older homes and newer developments, requiring expertise in various roofing materials.",
+        "nearbyAreas": [
+          "Burbank",
+          "Pasadena",
+          "La Cañada Flintridge"
+        ]
+      },
+      {
+        "city": "Burbank",
+        "slug": "burbank-ca",
+        "state": "CA",
+        "content": "Best Team Roofing & Exteriors proudly serves the Burbank community with reliable and professional roofing services. Burbank has a variety of homes from different eras, each with unique roofing characteristics. We're experienced in addressing the specific needs of Burbank homeowners.\n\nBurbank's warm climate demands durable roofing solutions that can withstand the sun and heat. We offer a wide selection of roofing materials and services, including routine maintenance, repairs, and full roof replacements. Best Team Roofing & Exteriors is committed to delivering quality workmanship and exceptional customer service to the residents of Burbank.",
+        "localContext": "Burbank's housing stock includes a mix of older and newer homes, each with its own roofing challenges and requirements.",
+        "nearbyAreas": [
+          "Glendale",
+          "North Hollywood",
+          "Studio City"
+        ]
+      },
+      {
+        "city": "West Covina",
+        "slug": "west-covina-ca",
+        "state": "CA",
+        "content": "Best Team Roofing & Exteriors is your trusted roofing partner in West Covina, California. West Covina features a mix of housing styles, including mid-century homes and newer developments. We have the expertise to handle any roofing project, regardless of the age or style of your home.\n\nThe warm and dry climate of West Covina requires roofing materials that can withstand prolonged sun exposure and occasional extreme temperatures. We offer a variety of roofing options designed for durability and energy efficiency. From inspections to repairs and complete roof replacements, Best Team Roofing & Exteriors is dedicated to delivering exceptional service to the West Covina community.",
+        "localContext": "West Covina's architecture is diverse, featuring everything from mid-century modern to more contemporary styles.",
+        "nearbyAreas": [
+          "Covina",
+          "Baldwin Park",
+          "La Puente"
+        ]
+      },
+      {
+        "city": "Pomona",
+        "slug": "pomona-ca",
+        "state": "CA",
+        "content": "Best Team Roofing & Exteriors is proud to offer professional roofing services to the residents of Pomona, California. Pomona boasts a rich history and a variety of architectural styles, from historic Victorian homes to more modern constructions. Our team is skilled in working with all types of roofing systems and can provide tailored solutions to meet your specific needs.\n\nPomona's warm climate can be harsh on roofing materials, leading to wear and tear over time. We offer a wide range of durable and weather-resistant roofing options designed to protect your home for years to come. Whether you need a roof inspection, repair, or complete replacement, Best Team Roofing & Exteriors is committed to providing top-quality workmanship and exceptional customer service to the Pomona community.",
+        "localContext": "Pomona contains many older homes, some dating back to the Victorian era, requiring specialized roofing expertise.",
+        "nearbyAreas": [
+          "Claremont",
+          "San Dimas",
+          "La Verne"
+        ]
+      },
+      {
+        "city": "Downey",
+        "slug": "downey-ca",
+        "state": "CA",
+        "content": "Best Team Roofing & Exteriors is pleased to provide reliable roofing services throughout Downey, California. Downey is known for its mid-century modern homes, many of which have unique roofing designs. We are experienced in handling these types of roofs and can offer solutions that preserve their architectural integrity.\n\nDowney's warm, dry climate makes it essential to have a durable and weather-resistant roof. We offer a variety of roofing materials that are designed to withstand the elements and protect your home for years to come. From minor repairs to complete roof replacements, Best Team Roofing & Exteriors is committed to delivering exceptional service to the Downey community.",
+        "localContext": "Downey features many mid-century modern homes that often require specialized roofing knowledge.",
+        "nearbyAreas": [
+          "Norwalk",
+          "Bellflower",
+          "South Gate"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "Best Team Roofing fixed a persistent leak in my roof after several other companies failed. They were prompt, professional, and the price was fair. I highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 5,
+        "service": "Roof Replacement",
+        "text": "We had our entire roof replaced by Best Team Roofing. From the initial consultation to the final inspection, they were fantastic. The crew was efficient, the materials were high-quality, and the finished product looks amazing. A great investment!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jennifer K.",
+        "rating": 4,
+        "service": "Gutter Cleaning",
+        "text": "I hired Best Team Roofing to clean my gutters. They did a thorough job, removing all the leaves and debris. My gutters are now flowing freely, and I'm confident my home is protected from water damage.",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Robert L.",
+        "rating": 5,
+        "service": "Roof Inspection",
+        "text": "I needed a roof inspection before selling my home. Best Team Roofing provided a detailed report with photos, highlighting a few minor issues that needed to be addressed. Their inspection helped me get a better price for my house.",
+        "date": "2024-07-10"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 5,
+        "service": "Emergency Roofing Services",
+        "text": "A tree fell on my roof during a storm. Best Team Roofing responded quickly and provided temporary repairs to prevent further damage. They were professional, compassionate, and a lifesaver during a stressful time.",
+        "date": "2024-05-01"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 4,
+        "service": "Commercial Roofing",
+        "text": "We hired Best Team Roofing to repair the roof on our office building. They did a great job, completing the project on time and within budget. The roof looks great, and we haven't had any leaks since.",
+        "date": "2024-01-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Los Angeles Roofing Experts | Best Team Roofing",
+        "description": "Reliable roofing services in Los Angeles. Roof repair, replacement, inspections, and more. Get a free estimate today!"
+      },
+      "about": {
+        "title": "About Us | Best Team Roofing & Exteriors",
+        "description": "Learn about Best Team Roofing & Exteriors in Los Angeles. Our mission, values, and commitment to the community."
+      },
+      "services": {
+        "title": "Roofing Services | Best Team Roofing Los Angeles",
+        "description": "Comprehensive roofing services in Los Angeles. Roof repair, replacement, inspections, gutter services, and more."
+      },
+      "contact": {
+        "title": "Contact Us | Best Team Roofing & Exteriors",
+        "description": "Contact Best Team Roofing & Exteriors for a free roofing estimate. Serving Los Angeles and surrounding areas."
+      },
+      "reviews": {
+        "title": "Customer Reviews | Best Team Roofing Los Angeles",
+        "description": "Read what our customers are saying about Best Team Roofing & Exteriors. Trusted roofing services in Los Angeles."
+      },
+      "service-areas": {
+        "title": "Service Areas | Best Team Roofing Los Angeles",
+        "description": "Best Team Roofing & Exteriors serves Los Angeles and surrounding areas. Find out if we service your neighborhood."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "roof-repair": "/images/service-roof-repair.webp",
+      "roof-inspection": "/images/service-roof-inspection.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "commercial-roofing": "/images/service-commercial-roofing.webp",
+      "emergency-roofing": "/images/service-emergency-roofing.webp"
+    },
+    "servicesResponsive": {
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-inspection": {
+        "src": "/images/service-roof-inspection.webp",
+        "srcset": "/images/service-roof-inspection-400w.webp 400w, /images/service-roof-inspection-800w.webp 800w, /images/service-roof-inspection-1200w.webp 1200w, /images/service-roof-inspection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-roofing": {
+        "src": "/images/service-commercial-roofing.webp",
+        "srcset": "/images/service-commercial-roofing-400w.webp 400w, /images/service-commercial-roofing-800w.webp 800w, /images/service-commercial-roofing-1200w.webp 1200w, /images/service-commercial-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-roofing": {
+        "src": "/images/service-emergency-roofing.webp",
+        "srcset": "/images/service-emergency-roofing-400w.webp 400w, /images/service-emergency-roofing-800w.webp 800w, /images/service-emergency-roofing-1200w.webp 1200w, /images/service-emergency-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
